@@ -10,6 +10,9 @@ h1{
     margin-bottom: 10px;
     margin-top: 30px;
     font-size:30px ;
+    font-weight: 400;
+    line-height: 32px;
+    color: rgba(0, 0, 0, 0.75);
 }  
 .cont2{
     background-color: #ddfbf4;
@@ -40,6 +43,10 @@ th {
     padding: 8px;
     text-align: center;
     font-family: 'Grandstander', cursive;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 15px;
+    color: #0a0a0a;
 }
 .cont4{
     background-color:#ddfbf4;
@@ -55,13 +62,17 @@ th {
     margin-left:30px;
     margin-top: 10px;
     font-family: 'Irish Grover', serif;
-    font-size: 23px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 24px;
 }
 .para1{
     margin-left:400px;
     margin-top: 10px;
     font-family: 'Irish Grover', serif;
-    font-size: 23px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 24px;
 }
 .cont5{
     justify-content: flex-start;
@@ -74,11 +85,11 @@ th {
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 16px;
+        font-size: 19px;
         margin: 4px 2px;
         cursor: pointer;
         border-radius: 10px;
-        border: 2px solid black ;
+        border: 2px solid #a3a3a3 ;
         font-family: 'Grandstander', cursive;
     }
     .button:hover {
